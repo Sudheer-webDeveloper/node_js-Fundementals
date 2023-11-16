@@ -1,0 +1,42 @@
+1) first os module
+2) path module
+3) FS module
+4) synchronus way of  reading, writing the files 
+5) asynchronus way of reading , writing to the files 
+6) HTTP module 
+7) npm Express 
+8)second node file 
+
+9)ExpressServer.js, index.html, style.css , creatig the http severer and express comparing creatig of http server how different than express server 
+
+10) ExpressServer.js , navabar folder, public folder , how to create the express server , how to read the url if server requested for specific files , how to use and setup middle ware 
+
+11) ApiJSon.js file and data.js file , how to send thd json data to the get requests 
+
+12 ) APiJSon2.js file and data.js file, how to setup single prroduct based on id in to the webpage, routeParams.
+
+
+13)APijSon3.js file and data.js file ,learning about query pamaters .
+
+
+14) MiddleWare.js file and logger.js File , how to use the middle ware in application , what are its uses of using , how to use it ,how it perfoms action etc 
+
+
+15) MiddleWare2.js file, logeger.js file , how to use multiple middle ware function using app.use() method of express , how to use the middle ware to the specific path only 
+
+16) MiddleeWare3.js file , how to use third party middle ware function in  express like for our example it is morgan , morgan give how much time did the specific request takes to give response it logs the time to the console
+
+
+17)post.js file , how to set up post method using a form and post.html file in newPublic folder 
+
+
+18) MethodsTesting.js file it is main file where we set up all routes initially , and tested all the methods like get , post, delete, update methods using the postman 
+
+
+19 ) first clearly observer the MethodsTesting.js File later goes to mainPost.js file where we set up routes in another folder to keep clean and neat the mainPost.js file 
+
+20)first check mainPost.js file ,routes folder , inside the routes folder check each file properly peopleController.js file, authorityController.js file , how we setup the route observe it clearly  , how we used the express router etc
+
+21) After checking the mainPost.js file go to mainRoute.js file and newRoutes folder 
+
+21) now observe the controller folder and routes folder and mainRoute file 
